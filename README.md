@@ -4,7 +4,15 @@
 https://github.com/ESX-Org/esx_accessories
 
 # important
-Do not use the latest version of es extended.
+Doesn't work with latest version of ESX.
+
+also you need to add this into esx_accesories
+
+LINE *60*
+
+```
+TriggerEvent('3dme:toggleMasked', 'true')
+```
 
 # about 
 This is a simple script that allows you to use /me what makes this different from other /me scripts
