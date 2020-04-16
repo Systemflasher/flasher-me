@@ -4,11 +4,9 @@
 https://github.com/ESX-Org/esx_accessories
 
 # important
-Doesn't work with latest version of ESX.
+You need to add this into esx_accesories
 
-also you need to add this into esx_accesories
-
-LINE *60*
+LINE *41*
 
 ```
 TriggerEvent('3dme:toggleMasked', 'true')
